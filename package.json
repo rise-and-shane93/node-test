@@ -1,0 +1,20 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rise-and-shane93/node-test.git"
+  },
+  "author": "Shane Harper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rise-and-shane93/node-test/issues"
+  },
+  "homepage": "https://github.com/rise-and-shane93/node-test#readme"
+}
