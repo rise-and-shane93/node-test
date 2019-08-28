@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rise-and-shane93/node-test/issues"
   },
-  "homepage": "https://github.com/rise-and-shane93/node-test#readme"
+  "homepage": "https://github.com/rise-and-shane93/node-test#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
