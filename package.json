@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/rise-and-shane93/node-test#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
